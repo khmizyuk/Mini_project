@@ -10,7 +10,7 @@ The project is school exhibition in a park.
 
 Interaction
 
-1. Rocket launching
+1. Rocket launching \n
 To launch the rocket press Launch button. The sound will appear to demonstrate the process. Timer with approximate time to reach orbit of either the Moon or Earth start according to selected gravity. Reset button place the rocket to the initial position.
 
 2. Changing of the gravity 
